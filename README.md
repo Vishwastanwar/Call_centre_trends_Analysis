@@ -1,4 +1,4 @@
-# Call_centre_trends_Analysis
+# Pwc_Call_Center_Performance_Analysis
 - [Dashboard Link](https://app.powerbi.com/groups/me/reports/11b33015-c20c-4d98-893d-14b97dde4147/a629cec74a789ee01c1d?experience=power-bi)
 ![Project](https://github.com/Vishwastanwar/Call_centre_trends_Analysis/blob/main/image.png)
 
